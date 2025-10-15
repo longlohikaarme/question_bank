@@ -1844,7 +1844,7 @@
       "Release planning.",
       "All of the above."
     ],
-    "type": "single",
+    "type": "multiple",
     "correct": [
       "Sprint Retrospective."
     ]
@@ -2086,7 +2086,7 @@
       "The Developers.",
       "Customers."
     ],
-    "type": "single",
+    "type": "multiple",
     "correct": [
       "Scrum Master.",
       "Product Owner.",
@@ -2546,7 +2546,7 @@
       "raise this as an impediment which may require the assistance of the Scrum Master to resolve.",
       "quality is the responsibility of the Developers and they should undertake testing themselves to the best of their abilities."
     ],
-    "type": "single",
+    "type": "multiple",
     "correct": [
       "raise this as an impediment which may require the assistance of the Scrum Master to resolve.",
       "quality is the responsibility of the Developers and they should undertake testing themselves to the best of their abilities."
@@ -3269,7 +3269,7 @@
       "By removing impediments that hinder the Scrum Team.",
       "By starting and ending the meetings at the proper time."
     ],
-    "type": "single",
+    "type": "multiple",
     "correct": [
       "By facilitating Developer decision-making.",
       "By removing impediments that hinder the Scrum Team."
