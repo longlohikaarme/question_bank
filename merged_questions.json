@@ -2810,7 +2810,7 @@
       "The Developers, with support from the Product Owner who is still accountable for it.",
       "The Product Owner."
     ],
-    "type": "single",
+    "type": "multiple",
     "correct": [
       "The Developers, with support from the Product Owner who is still accountable for it.",
       "The Product Owner."
@@ -2928,7 +2928,11 @@
     ],
     "type": "multiple",
     "max": 3,
-    "correct": []
+    "correct": [
+      "The Scrum Master.",
+      "The Product Owner.",
+      "Developers."
+    ]
   },
   {
     "text": "The timebox for a Daily Scrum is?",
@@ -3046,7 +3050,11 @@
     ],
     "type": "multiple",
     "max": 3,
-    "correct": []
+    "correct": [
+      "Product Owner.",
+      "Developers.",
+      "Scrum Master."
+    ]
   },
   {
     "text": "True or False: The purpose of a Sprint is to produce a valuable and useful Increment of working product.",
