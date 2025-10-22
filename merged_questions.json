@@ -1845,6 +1845,7 @@
       "All of the above."
     ],
     "type": "multiple",
+    "max": 5,
     "correct": [
       "Sprint Retrospective."
     ]
@@ -2087,6 +2088,7 @@
       "Customers."
     ],
     "type": "multiple",
+    "max": 5,
     "correct": [
       "Scrum Master.",
       "Product Owner.",
